@@ -1,0 +1,12 @@
+[package]
+name = "test"
+version = "0.0.1"
+published-at = "0x19f5e12f569d0ca5e990e1d144b24c098ed65c9d7d7dd9fccb53aa30ced9540e"
+edition = "2024.beta"
+
+# Upgrade Cap: 0x19f5e12f569d0ca5e990e1d144b24c098ed65c9d7d7dd9fccb53aa30ced9540e
+# v01: 0x19f5e12f569d0ca5e990e1d144b24c098ed65c9d7d7dd9fccb53aa30ced9540e
+ 
+[addresses]
+sui = "0x2"
+test = "0x19f5e12f569d0ca5e990e1d144b24c098ed65c9d7d7dd9fccb53aa30ced9540e"
