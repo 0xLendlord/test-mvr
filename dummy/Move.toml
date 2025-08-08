@@ -1,12 +1,13 @@
 [package]
 name = "test"
 version = "0.0.1"
-published-at = "0x19f5e12f569d0ca5e990e1d144b24c098ed65c9d7d7dd9fccb53aa30ced9540e"
+published-at = "0x4796fa87f629c2b152732029f6b933d0c210fc3a17e3b08e5e2796dcddeaacd7"
 edition = "2024.beta"
 
-# Upgrade Cap: 0x19f5e12f569d0ca5e990e1d144b24c098ed65c9d7d7dd9fccb53aa30ced9540e
+# Upgrade Cap: 0xab22b33b330ddb401628e45987b38468649559cde4d45c3531cf4ff8e0417dc3
 # v01: 0x19f5e12f569d0ca5e990e1d144b24c098ed65c9d7d7dd9fccb53aa30ced9540e
  
 [addresses]
 sui = "0x2"
-test = "0x19f5e12f569d0ca5e990e1d144b24c098ed65c9d7d7dd9fccb53aa30ced9540e"
+test = "0x0"
+# test = "0x4796fa87f629c2b152732029f6b933d0c210fc3a17e3b08e5e2796dcddeaacd7"
